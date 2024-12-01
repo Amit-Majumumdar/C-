@@ -1,2 +1,12 @@
 mkdir Amit
 cd Amit
+touch amit.txt
+cat>>amit.txt
+amit
+palash
+nilima
+promila
+priya
+^c
+cat amit.txt
+
